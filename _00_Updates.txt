@@ -1,0 +1,5 @@
+Installed Cowsay package globally using npm
+---------To install globalay use -g flag -------------
+
+Installing package as a project dependency
+---------To install a library locally only for the project, avoid using flag -g----------------
